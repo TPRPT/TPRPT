@@ -93,8 +93,8 @@ I'm a developer passionate about **Human-Computer Interaction (HCI)** and immers
 
 ### 📬 Contact
 <p align="left">
-  <a href="mailto:[YOUR_EMAIL@gmail.com]"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://velog.io/[YOUR_VELOG_ID]"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a>
-  <a href="https://www.instagram.com/[YOUR_INSTAGRAM_ID]"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:[pinia124@naver.com]"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://velog.io/@pinia124"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a>
+  <a href="https://www.instagram.com/pinia124"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/[YOUR_LINKEDIN_ID]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
