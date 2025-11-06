@@ -81,6 +81,7 @@ I'm a developer passionate about **Human-Computer Interaction (HCI)** and immers
 #### Game & XR Development
 <p align="left">
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black">
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white">
   <img src="https://img.shields.io/badge/Meta%20Quest-0081F2?style=for-the-badge&logo=oculus&logoColor=white">
   <img src="https://img.shields.io/badge/VIVE-00BADE?style=for-the-badge&logo=htcvive&logoColor=white">
   <img src="https://img.shields.io/badge/OpenXR-9933FF?style=for-the-badge&logo=openxr&logoColor=white">
