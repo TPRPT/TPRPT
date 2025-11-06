@@ -42,7 +42,7 @@ I'm a developer passionate about **Human-Computer Interaction (HCI)** and immers
 ### 🛠️ Tech Stacks
 
 <p align="center">
-  <img src="https://github.com/tprpt/tprpt/blob/main/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+  <img src="https://github.com/tprpt/tprpt/blob/main/dist/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
 </p>
 
 <p align="center">
