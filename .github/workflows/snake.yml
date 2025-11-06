@@ -1,0 +1,32 @@
+name: Generate GitHub Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # 매일 0시(UTC)에 자동으로 실행
+  workflow_dispatch: # 수동으로 실행할 수 있도록 버튼 추가
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # (1) 저장소 코드를 체크아웃합니다.
+      - uses: actions/checkout@v3
+
+      # (2) 뱀 애니메이션을 생성합니다.
+      - uses: a-sh-dev/github-contribution-grid-snake@v0.0.3
+        with:
+          # ❗ [중요] 본인 깃허브 ID를 사용합니다.
+          github_user_name: ${{ github.repository_owner }} 
+          
+          # ❗ [중요] 요청하신 dark 테마를 적용합니다.
+          svg_out_path: github-contribution-grid-snake.svg
+          args: "theme=github-dark"
+
+      # (3) 생성된 파일을 저장소에 커밋(저장)합니다.
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add github-contribution-grid-snake.svg
+          git commit -m "generated: update snake animation [skip ci]" || exit 0
+          git push
