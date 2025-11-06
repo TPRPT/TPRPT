@@ -18,24 +18,24 @@ I'm a developer passionate about **Human-Computer Interaction (HCI)** and immers
 ### 💡 Experiences & Activities
 
 * **GDG (Google Developer Group) SeoulTech** 
-    * *Member, 5th Gen Web FE Team* (09.2025 – Present)
+    * *Member, 5th Gen Web FE Team* `(09.2025 – Present)`
 * **Interaction Lab (IXLAB), SeoulTech**
-    * *Undergraduate Researcher* (02.2025 – Present)
+    * *Undergraduate Researcher* `(02.2025 – Present)`
 * **WISET** (Korea Foundation for Women in Science, Engineering, and Technology)
-    * *Research Team Member* (04.2025 – 10.2025)
+    * *Research Team Member* `(04.2025 – 10.2025)`
 * **Hochschule Karlsruhe (HKA), Germany**
-    * *Exchange Student, Computer Science* (02.2024 – 08.2024)
+    * *Exchange Student, Computer Science* `(02.2024 – 08.2024)`
 * **Coala (ITM Dept. Coding Club)**
-    * *Member* (2022 – Present)
+    * *Member* `(2022 – Present)`
 
 <br>
 
 ### 🏆 Awards
 
 **SeoulTech IT Service Planning & Development Contest**
-* **Gold Prize** (2023): **"Brick Factory"** - App for Factory Owners and Drivers
-* **Silver Prize** (2023): **"Down to Earth"** - A Real-life Sharing SNS
-* **Silver Prize** (2022): **"OPOMO"** - Photo Booth Pose Recommendation Website
+* **Gold Prize** : **"Brick Factory"** - App for Factory Owners and Drivers `(2023)`
+* **Silver Prize** : **"Down to Earth"** - A Real-life Sharing SNS `(2023)`
+* **Silver Prize** : **"OPOMO"** - Photo Booth Pose Recommendation Website `(2022)`
 
 <br>
 
