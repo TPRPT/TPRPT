@@ -42,7 +42,10 @@ I'm a developer passionate about **Human-Computer Interaction (HCI)** and immers
 ### 🛠️ Tech Stacks
 
 <p align="center">
-   <img src="https://github.com/tprpt/tprpt/blob/main/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+  <img src="https://github.com/tprpt/tprpt/blob/main/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tprpt&layout=donut&theme=dark&hide_border=true" alt="Top Languages (Donut Chart)" />
 </p>
 
