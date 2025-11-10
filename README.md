@@ -25,7 +25,9 @@ I'm a developer passionate about **Human-Computer Interaction (HCI)** and immers
     * *Undergraduate Researcher* `(02.2025 – Present)`
 * **Hochschule Karlsruhe (HKA), Germany**
     * *Exchange Student, Computer Science* `(02.2024 – 08.2024)`
-* **Coala (ITM Dept. Coding Club)**
+* **Graymood** (SeoulTech Central Band Club)
+    * *Executive Member, Keyboard Section Leader* `(2023)`
+* **Coala** (ITM Dept. Coding Club)
     * *Member* `(2022 – Present)`
 
 <br>
