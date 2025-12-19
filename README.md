@@ -22,7 +22,7 @@ I'm a developer passionate about **Human-Computer Interaction (HCI)** and immers
 * **WISET** (Korea Foundation for Women in Science, Engineering, and Technology)
     * *Research Team Member* `(04.2025 – 10.2025)`
 * **Interaction Lab (IXLAB), SeoulTech**
-    * *Undergraduate Researcher* `(02.2025 – Present)`
+    * *Undergraduate Researcher* `(02.2025 – 12.2025)`
 * **Hochschule Karlsruhe (HKA), Germany**
     * *Exchange Student, Computer Science* `(02.2024 – 08.2024)`
 * **Graymood** (SeoulTech Central Band Club)
