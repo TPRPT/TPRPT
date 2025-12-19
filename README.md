@@ -35,6 +35,7 @@ I'm a developer passionate about **Human-Computer Interaction (HCI)** and immers
 ### 🏆 Awards
 
 **SeoulTech IT Service Planning & Development Contest**
+* **Gold Prize** : **Moyeoyo** - App for Group Meeting Time and Location Coordination `(2025)`
 * **Gold Prize** : **"Brick Factory"** - App for Factory Owners and Drivers `(2023)`
 * **Silver Prize** : **"Down to Earth"** - A Real-life Sharing SNS `(2023)`
 * **Silver Prize** : **"OPOMO"** - Photo Booth Pose Recommendation Website `(2022)`
