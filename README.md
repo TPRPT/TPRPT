@@ -45,7 +45,7 @@ I'm a developer passionate about **Human-Computer Interaction (HCI)** and immers
 ### 🛠️ Tech Stacks
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tprpt&layout=donut&theme=dark&hide_border=true" alt="Top Languages (Donut Chart)" />
+  <img src="https://github-readme-stats-flame-ten-17.vercel.app/api/top-langs/?username=tprpt&layout=donut&theme=dark&hide_border=true" />
 </p>
 
 #### Languages
