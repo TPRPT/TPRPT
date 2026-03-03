@@ -1,9 +1,17 @@
 ## 👋 Welcome!
 
-I'm a developer passionate about **Human-Computer Interaction (HCI)** and immersive experiences (**VR/MR**). I enjoy bridging the gap between complex data, full-stack web applications, and interactive XR environments.
+I'm a developer and researcher passionate about **Human-Computer Interaction (HCI)** and immersive experiences (**VR/MR**). 
 
-- 🔭 I’m currently focused on researching **Game AI** and **MR Interactions**.
-- 🌱 I’m currently learning and building with **LangChain** and modern web applications.
+- 🔭 Focused on **Game AI** and interaction design for **Mixed Reality**.
+- 🌱 Developing and studying **LLM-based interactive systems**.
+
+<br>
+
+### 📄 Publications
+
+**ACM CHI 2026 (CHI EA) – Poster**  
+*Knight Path: Supporting Player Sense-making in Game Narratives via Visual Scaffolding and Spoiler-Aware AI*  
+April 13–17, 2026 · Barcelona, Spain
 
 <br>
 
@@ -17,7 +25,7 @@ I'm a developer passionate about **Human-Computer Interaction (HCI)** and immers
 
 ### 💡 Experiences & Activities
 
-* **GDG (Google Developer Group) SeoulTech** 
+* **GDGoC (Google Developer Groups on Campus) SeoulTech** 
     * *Member, 5th Gen Web FE Team* `(09.2025 – Present)`
 * **WISET** (Korea Foundation for Women in Science, Engineering, and Technology)
     * *Research Team Member* `(04.2025 – 10.2025)`
@@ -26,7 +34,7 @@ I'm a developer passionate about **Human-Computer Interaction (HCI)** and immers
 * **Hochschule Karlsruhe (HKA), Germany**
     * *Exchange Student, Computer Science* `(02.2024 – 08.2024)`
 * **Graymood** (SeoulTech Central Band Club)
-    * *Executive Member, Keyboard Section Leader* `(2023)`
+    * *Executive Member* `(2023)`
 * **Coala** (ITM Dept. Coding Club)
     * *Member* `(2022 – Present)`
 
@@ -35,10 +43,10 @@ I'm a developer passionate about **Human-Computer Interaction (HCI)** and immers
 ### 🏆 Awards
 
 **SeoulTech IT Service Planning & Development Contest**
-* **Gold Prize** : **Moyeoyo** - App for Group Meeting Time and Location Coordination `(2025)`
-* **Gold Prize** : **"Brick Factory"** - App for Factory Owners and Drivers `(2023)`
-* **Silver Prize** : **"Down to Earth"** - A Real-life Sharing SNS `(2023)`
-* **Silver Prize** : **"OPOMO"** - Photo Booth Pose Recommendation Website `(2022)`
+* **Gold Prize** - **"Moyeoyo"**: App for Group Meeting Time and Location Coordination `(2025)`
+* **Gold Prize** - **"Brick Factory"**: App for Factory Owners and Drivers `(2023)`
+* **Silver Prize** - **"Down to Earth"**: A Real-life Sharing SNS `(2023)`
+* **Silver Prize** - **"OPOMO"**: Photo Booth Pose Recommendation Website `(2022)`
 
 <br>
 
@@ -101,8 +109,8 @@ I'm a developer passionate about **Human-Computer Interaction (HCI)** and immers
 
 ### 📬 Contact
 <p align="left">
-  <a href="mailto:[pinia124@naver.com]"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:pinia124@naver.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://velog.io/@pinia124"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a>
   <a href="https://www.instagram.com/pinia124"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/[YOUR_LINKEDIN_ID]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <!-- <a href="https://www.linkedin.com/in/[YOUR_LINKEDIN_ID]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a> -->
 </p>
