@@ -10,7 +10,9 @@ I'm a developer and researcher passionate about **Human-Computer Interaction (HC
 ### 📄 Publications
 
 **ACM CHI 2026 (CHI EA) – Poster**  
-*Knight Path: Supporting Player Sense-making in Game Narratives via Visual Scaffolding and Spoiler-Aware AI*  
+- *Knight Path: Supporting Player Sense-making in Game Narratives via Visual Scaffolding and Spoiler-Aware AI*
+- *Investigating the Impact of Lying Postures on Mixed Reality Interaction*
+
 April 13–17, 2026 · Barcelona, Spain
 
 <br>
@@ -18,35 +20,35 @@ April 13–17, 2026 · Barcelona, Spain
 ### 🎓 Education
 
 **Dual BSc in Information Technology Management (ITM)**
-* 🇬🇧 **Northumbria University**, UK (BSc Hons)
-* 🇰🇷 **Seoul National University of Science & Technology (SeoulTech)**, KR (BSc)
+- 🇬🇧 **Northumbria University**, UK (BSc Hons)
+- 🇰🇷 **Seoul National University of Science & Technology (SeoulTech)**, KR (BSc)
 
 <br>
 
 ### 💡 Experiences & Activities
 
-* **GDGoC (Google Developer Groups on Campus) SeoulTech** 
-    * *Member, 5th Gen Web FE Team* `(09.2025 – Present)`
-* **WISET** (Korea Foundation for Women in Science, Engineering, and Technology)
-    * *Research Team Member* `(04.2025 – 10.2025)`
-* **Interaction Lab (IXLAB), SeoulTech**
-    * *Undergraduate Researcher* `(02.2025 – 12.2025)`
-* **Hochschule Karlsruhe (HKA), Germany**
-    * *Exchange Student, Computer Science* `(02.2024 – 08.2024)`
-* **Graymood** (SeoulTech Central Band Club)
-    * *Executive Member* `(2023)`
-* **Coala** (ITM Dept. Coding Club)
-    * *Member* `(2022 – Present)`
+- **GDGoC (Google Developer Groups on Campus) SeoulTech** 
+    - *Member, 5th Gen Web FE Team* `(09.2025 – Present)`
+- **WISET** (Korea Foundation for Women in Science, Engineering, and Technology)
+    - *Research Team Member* `(04.2025 – 10.2025)`
+- **Interaction Lab (IXLAB), SeoulTech**
+    - *Undergraduate Researcher* `(02.2025 – 12.2025)`
+- **Hochschule Karlsruhe (HKA), Germany**
+    - *Exchange Student, Computer Science* `(02.2024 – 08.2024)`
+- **Graymood** (SeoulTech Central Band Club)
+    - *Executive Member* `(2023)`
+- **Coala** (ITM Dept. Coding Club)
+    - *Member* `(2022 – Present)`
 
 <br>
 
 ### 🏆 Awards
 
 **SeoulTech IT Service Planning & Development Contest**
-* **Gold Prize** - **"Moyeoyo"**: App for Group Meeting Time and Location Coordination `(2025)`
-* **Gold Prize** - **"Brick Factory"**: App for Factory Owners and Drivers `(2023)`
-* **Silver Prize** - **"Down to Earth"**: A Real-life Sharing SNS `(2023)`
-* **Silver Prize** - **"OPOMO"**: Photo Booth Pose Recommendation Website `(2022)`
+- **Gold Prize** - **"Moyeoyo"**: App for Group Meeting Time and Location Coordination `(2025)`
+- **Gold Prize** - **"Brick Factory"**: App for Factory Owners and Drivers `(2023)`
+- **Silver Prize** - **"Down to Earth"**: A Real-life Sharing SNS `(2023)`
+- **Silver Prize** - **"OPOMO"**: Photo Booth Pose Recommendation Website `(2022)`
 
 <br>
 
