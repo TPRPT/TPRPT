@@ -19,7 +19,7 @@ April 13–17, 2026 · Barcelona, Spain
 
 ### 🎓 Education
 
-**Dual BSc in Information Technology Management (ITM)**
+**Dual BSc in Information Technology Management (ITM)** `(2022 ~ Present)`
 - 🇬🇧 **Northumbria University**, UK (BSc Hons)
 - 🇰🇷 **Seoul National University of Science & Technology (SeoulTech)**, KR (BSc)
 
@@ -38,7 +38,7 @@ April 13–17, 2026 · Barcelona, Spain
 - **Graymood** (SeoulTech Central Band Club)
     - *Executive Member* `(2023)`
 - **Coala** (ITM Dept. Coding Club)
-    - *Member* `(2022 – Present)`
+    - *Member* `(2022 – 2025)`
 
 <br>
 
