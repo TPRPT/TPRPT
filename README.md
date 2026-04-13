@@ -7,6 +7,15 @@ I'm a developer and researcher passionate about **Human-Computer Interaction (HC
 
 <br>
 
+### 📬 Contact
+<p align="left">
+  <a href="mailto:hello124@seoultech.ac.kr"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://velog.io/@pinia124"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/pinia124"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
+
+<br>
+
 ### 📄 Publications
 
 **ACM CHI 2026 (CHI EA) – Poster**  
@@ -98,13 +107,4 @@ April 13–17, 2026 · Barcelona, Spain
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-</p>
-
-<br>
-
-### 📬 Contact
-<p align="left">
-  <a href="mailto:hello124@seoultech.ac.kr"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://velog.io/@pinia124"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/pinia124"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
