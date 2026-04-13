@@ -19,8 +19,12 @@ I'm a developer and researcher passionate about **Human-Computer Interaction (HC
 ### 📄 Publications
 
 **ACM CHI 2026 (CHI EA) – Poster**  
-- *Knight Path: Supporting Player Sense-making in Game Narratives via Visual Scaffolding and Spoiler-Aware AI*
-- *Investigating the Impact of Lying Postures on Mixed Reality Interaction*
+
+- *Knight Path: Supporting Player Sense-making in Game Narratives via Visual Scaffolding and Spoiler-Aware AI*  
+  🔗 https://doi.org/10.1145/3772363.3798468  
+
+- *Investigating the Impact of Lying Postures on Mixed Reality Interaction*  
+  🔗 https://doi.org/10.1145/3772363.3798467  
 
 April 13–17, 2026 · Barcelona, Spain
 
