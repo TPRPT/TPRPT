@@ -45,7 +45,7 @@ April 13–17, 2026 · Barcelona, Spain
 - **WISET** (Korea Foundation for Women in Science, Engineering, and Technology)
     - *Research Team Member* `(04.2025 – 10.2025)`
 - **Interaction Lab (IXLAB), SeoulTech**
-    - *Undergraduate Researcher* `(02.2025 – 12.2025)`
+    - *Undergraduate Researcher* `(02.2025 – 02.2026)`
 - **Hochschule Karlsruhe (HKA), Germany**
     - *Exchange Student, Computer Science* `(02.2024 – 08.2024)`
 - **Graymood** (SeoulTech Central Band Club)
