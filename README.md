@@ -18,7 +18,7 @@ I'm a developer and researcher passionate about **Human-Computer Interaction (HC
 
 ### 📄 Publications
 
-**ACM CHI 2026 (CHI EA) – Poster**  
+**ACM CHI 2026 (CHI EA '26: Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems)**  
 
 - *Knight Path: Supporting Player Sense-making in Game Narratives via Visual Scaffolding and Spoiler-Aware AI*  
   🔗 https://doi.org/10.1145/3772363.3798468  
