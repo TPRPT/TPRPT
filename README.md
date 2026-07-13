@@ -41,7 +41,7 @@ April 13–17, 2026 · Barcelona, Spain
 ### 💡 Experiences & Activities
 
 - **GDGoC (Google Developer Groups on Campus) SeoulTech** 
-    - *Member, 5th Gen Web FE Team* `(09.2025 – Present)`
+    - *Member, 5th Gen Web FE Team* `(09.2025 – 06.2026)`
 - **WISET** (Korea Foundation for Women in Science, Engineering, and Technology)
     - *Research Team Member* `(04.2025 – 10.2025)`
 - **Interaction Lab (IXLAB), SeoulTech**
